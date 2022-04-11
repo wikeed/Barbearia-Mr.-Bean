@@ -46,6 +46,8 @@ body {
 
 .banner {
     width: 100%;
+    position: absolute;
+    z-index: -1;
 }
 
 .principal {
@@ -131,3 +133,4 @@ footer {
     border-top-right-radius: 0%;
     
 }
+

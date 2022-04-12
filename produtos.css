@@ -122,3 +122,21 @@ footer {
         position: static;
     }
 }
+
+
+@media screen and (max-width: 960px) {
+    .produtos li {
+        display:block ;
+        width: 98%;
+        margin-top: 1rem;
+    }
+    .foto {
+        width: 300px;
+    }
+    .description {
+        font-size: 25px;
+    }
+    .preço {
+        font-size: 20px;
+    }
+}

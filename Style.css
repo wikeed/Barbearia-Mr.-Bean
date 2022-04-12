@@ -1,3 +1,7 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+}
+
 header {
     background: linear-gradient(180deg, rgba(187,187,187,1) 86%, rgba(187,187,187,1) 96%, rgba(0,0,0,1) 100%);
     padding: 10px 0;
@@ -5,7 +9,7 @@ header {
 
 .caixa {
     position: relative;
-    width: 1100px;
+    width: 75%;
     margin: 0 auto;
 }
 
@@ -49,8 +53,8 @@ body {
 }
 
 .principal {
-    background: linear-gradient(#494f53, #a1dfca);
-   
+    padding: 3em 0;
+    background: #fefefe;
 }
 
 .principal p {
@@ -71,42 +75,89 @@ body {
     padding-top: 30px;
     text-align: center;
     margin: 0 0 1em;
+    clear: left;
 }
 
 #meio {
-    font-size: 30px; 
+    font-size: 20px; 
 }
 
 .corpo {
-    text-align: center;
+    text-align: left;
     font-size: 20px;
+
 }
 
 main {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.careca {
+    width: 160px;
+    float: left;
+    margin: 0 20px 20px 0;  
+}
+
+.mapa {
+    padding: 3em 0;
+    background: linear-gradient(#fefefe, #888888);
+}
+
+.mapa-conteudo {
     width: 940px;
     margin: 0 auto;
 }
 
-#h2 {
-    font-size: 30px;
+.mapa p {
+    margin: 0 0 2em;
     text-align: center;
 }
 
 .beneficios {
-    font-size: 20px;
-    font-style: italic;
+    padding: 3em 0;
+    background: #888888;
+    box-shadow: -2px 30px 20px #3d3b3baf;
+}
 
+.conteudo-beneficios {
+    width: 640px;
+    margin: 0 auto;
+}
+
+.lista-beneficios {
+    width: 40%;
+    display: inline-block;
+    vertical-align: top;
 }
 
 .itens {
-    background: #ffffff;
-    padding: 20px;
+    line-height: 1.5;
 }
 
+.itens:first-child {
+    font-weight: bold;
+}
+
+.itens:before {
+    content: "✂";
+    font-weight: bold;
 }
 
 .imgbeneficios {
-    width: 50%;
+    width: 60%;
+    box-shadow: 10px 10px 30px 10px #1d1d1d, -10px -10px 30px 10px #1d1d1d;    
+}
+
+.imgbeneficios:hover {
+    transition: 1s;
+    box-shadow: 10px 10px 30px 10px #000000, -10px -10px 30px 10px #000000;
+
+}
+
+.video {
+    width: 560px;
+    margin: 2em auto;
 }
 
 footer {
@@ -131,3 +182,9 @@ footer {
     border-top-right-radius: 0%;
     
 }
+
+@media screen and (max-width: 480px) {
+    
+}
+
+

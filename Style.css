@@ -131,6 +131,7 @@ main {
 
 .itens {
     line-height: 1.5;
+    font-size: 20px;
 }
 
 .itens:first-child {

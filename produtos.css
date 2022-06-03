@@ -1,3 +1,7 @@
+:root {
+    background-color: #f1e2e2;
+}
+
 header {
     background: #bbbbbb;
     padding: 10px 0;
@@ -78,7 +82,7 @@ nav a:hover {
 
 .description {
     font-size: 20px;
-    
+    font-weight: 900;
 }
 
 .preço {
@@ -97,7 +101,7 @@ nav a:hover {
 footer {
     text-align: center;
     font-size: 18px;
-    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0, 0, 0, 0.993) 90%, rgba(253, 253, 253, 0.904) 100%);
+    background: linear-gradient(0deg, rgba(0,0,0,1) 0%, rgba(0, 0, 0, 0.993) 90%, #f1e2e2 100%);
     padding: 20px;
     background-repeat: no-repeat;
     

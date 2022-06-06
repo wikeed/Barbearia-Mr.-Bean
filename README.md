@@ -1,5 +1,5 @@
 <div style="margin:30px" align="center">
-    <img src="./images/titulof.png" />
+    <img src="./images/tituloF.png" />
 </div>
 
 
@@ -39,16 +39,16 @@ Este projeto foi desenvolvido com HTML e CSS.
 Estas são algumas demonstrações do projeto Barbearia Mr. Bean:
 
 <h2 align="center">Página inicial</h2>
-<img src="./images/home.png">
+<img src="./images/Home.png">
 
 <h2 align="center">Página inicial</h2>
-<img src="./images/home2.png">
+<img src="./images/Home2.png">
 
 <h2 align="center">Página inicial</h2>
-<img src="./images/home3.png">
+<img src="./images/Home3.png">
 
 <h2 align="center">Produtos</h2>
-<img src="./images/produtos.png">
+<img src="./images/Produtos.png">
 
 <h2 align="center">Contato</h2>
 <img src="./images/contato.png">

@@ -39,22 +39,13 @@ Este projeto foi desenvolvido com HTML e CSS.
 Estas são algumas demonstrações do projeto Barbearia Mr. Bean:
 
 <h2 align="center">Página inicial</h2>
-<img src="./images/Home.png">
-
-<h2 align="center">Página inicial</h2>
-<img src="./images/Home2.png">
-
-<h2 align="center">Página inicial</h2>
-<img src="./images/Home3.png">
+<img src="./images/barbearia-home.gif">
 
 <h2 align="center">Produtos</h2>
-<img src="./images/Produtos.png">
+<img src="./images/barbearia-produtos.gif">
 
 <h2 align="center">Contato</h2>
-<img src="./images/contato.png">
-
-<h2 align="center">Contato</h2>
-<img src="./images/contato2.png">
+<img src="./images/barbearia-contato.gif">
 
 <br></br>
 
